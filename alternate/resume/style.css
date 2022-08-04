@@ -82,5 +82,5 @@ a:hover {
         border-radius: 0;
         box-shadow: none;
     }
-    .objective, .workex, .tech, .edu, .cover{padding: 10px;}
+    .objective, .workex, .tech, .edu, .cover, .rates{padding: 10px;}
 } 
